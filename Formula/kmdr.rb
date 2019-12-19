@@ -3,8 +3,8 @@ require "language/node"
 class Kmdr < Formula
   desc "The ultimate CLI learning tool"
   homepage "https://kmdr.sh/"
-  url "https://registry.npmjs.org/kmdr/-/kmdr-0.2.4.tgz"
-  sha256 "f3c277d0106c3d300c9dc755799f6185f9a21670b026e598e71cecfee0070a3e"
+  url "https://registry.npmjs.org/kmdr/-/kmdr-0.4.0.tgz"
+  sha256 "6dae95f8d000a0be0f30b68e8a1dbedb081f54f71d29264453782832bd1dbf70"
   depends_on "node"
 
   def install
